@@ -5,7 +5,7 @@
 這是一個基於 Dagger 2 的 Android 範例專案，展示了如何利用 Dagger 2 進行依賴注入管理。專案採用現代 Android 開發技術，並提供實際應用中的最佳實踐，幫助開發者輕鬆實現依賴注入。
 
 ## UI 畫面
-
+![截圖](./img/Screenshot_20250124_161220.png)
 
 ## 技術特點
 
@@ -156,6 +156,7 @@ implementation("androidx.compose.material3:material3")
 
 ## 時序圖
 ![](https://i.imgur.com/P2fCc5M.png)
+![SequenceDiagram](./img/SequenceDiagram.png)
 
 ### 時序流程說明
 
